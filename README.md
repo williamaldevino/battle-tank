@@ -1,2 +1,2 @@
 # battle-tank
-An open-world head-to-head tank fight with simple AI, terrain, and advannced control system.
+An open-world head-to-head tank fight with simple AI, terrain, and advanced control system.
